@@ -27,8 +27,12 @@ export default defineConfig({
 					label: 'Career',
 					items: [
 						// Each item here is one entry in the navigation menu.
-						{ label: 'Contracting', link: '/career/contracting/' },
-						{ label: 'Tutoring', link: '/career/tutoring/' },
+						{ label: 'Contracting (2010-present)', link: '/career/contracting/' },
+						{ label: 'Tutoring (2015-present)', link: '/career/tutoring/' },
+						{ label: 'Tembo (2023-2024)', link: '/career/tembo/' },
+						{ label: 'Procter and Gamble (2019-2023)', link: '/career/pg/' },
+						{ label: 'Cutco (2017-2018)', link: '/career/cutco/' },
+						{ label: 'Real Estate (2010-2020)', link: '/career/realestate/' },
 					],
 				},
 				{
