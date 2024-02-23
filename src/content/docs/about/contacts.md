@@ -10,6 +10,8 @@ description: Contact me with one of these methods!
 <br>
 **E-mail:** [ongdevlab@gmail.com](mailto:ongdevlab@gmail.com)
 <br>
+**TikTok:** [@will.ong](https://www.tiktok.com/@will.ong)
+<br>
 **Amateur Radio:** Callsign: KD9OKJ, hit the Cincinnati repeater, 7.175-7.3MHz Band, and have telepathy to 
 know when I am on my radio.
 
