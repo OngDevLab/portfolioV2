@@ -16,11 +16,19 @@ export default defineConfig({
 			},
 			sidebar: [
 				{
+					label: 'About Me',
+					items: [
+						// Each item here is one entry in the navigation menu.
+						{ label: 'Experience', link: '/about/experience/' },
+						{ label: 'Contacts', link: '/about/contacts/' },
+					],
+				},
+				{
 					label: 'Career',
 					items: [
 						// Each item here is one entry in the navigation menu.
-						{ label: 'Example Guide 2', link: '/career/example2/' },
-						{ label: 'Example Guide', link: '/career/example/' },
+						{ label: 'Contracting', link: '/career/contracting/' },
+						{ label: 'Tutoring', link: '/career/tutoring/' },
 					],
 				},
 				{
