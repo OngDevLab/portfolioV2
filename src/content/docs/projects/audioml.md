@@ -6,7 +6,7 @@ Every year, P&G held a hackathon where the top data scientists in P&G would comp
 
 ## The process I used to win the hackathon:
 
-- **Clean Training Data:** The data provided had many artifiacts and misclassifications. I manually combed the data and created a filtering function to remove incorrect samples. I also recorded my own sample data to enhance my training dataset.
+- **Clean Training Data:** The data provided had many artifacts and misclassifications. I manually combed the data and created a filtering function to remove incorrect samples. I also recorded my own sample data to enhance my training dataset.
 
 - **Physics:** Since the data was for detecting when a person would open or shut off a faucet, I timed and calculated the rise time for the action, resulting in having the optimal window size for my audio samples.
 
@@ -22,7 +22,7 @@ Every year, P&G held a hackathon where the top data scientists in P&G would comp
 
 - **Communication and Collaboration:** During the hackathon, I had to find many experts from inside the company and from external resources. In addition, I had to then take a tour at the end of competition to present to various executives in the company.
 
-- **Digital Signal Processing:** Having experience in electrical engineering and DSP (Digital Signal Processing) gave me a leg up in the competition. understanding the reasoning behind not compressing to mp3, building fourier transforms, and other filtering tricks allowed me to focus my time on the ML/AI tasks at hand and not on the basic theory.
+- **Digital Signal Processing:** Having experience in electrical engineering and DSP (Digital Signal Processing) gave me a leg up in the competition. Understanding the reasoning behind not compressing to mp3, building fourier transforms, and other filtering tricks allowed me to focus my time on the ML/AI tasks at hand and not on the basic theory.
 
 ## Tech Stack:
 - **Python/Pandas**
