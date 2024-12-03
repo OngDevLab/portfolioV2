@@ -15,7 +15,7 @@ I am currently a Senior Consultant at Daman Consulting, Inc. My focus is ML engi
 
 - **EDA and Hybrid Classical ML/Transformer Analysis:** Once we had gotten the architecture approved, we had access to real data. I combined LLMs and Transformers in conjunction with classical ML models (regression, etc.) to provide insights from our data.
 
-- **LLM RAG Pipeline Development:** After the preliminary analysis, I implemented the RAG pipeline and LLM prompt testing frameworks that will be ready for production workloads. We primarly used Amazon Bedrock for the LLM's and Postgres with pgVector for the vector database.
+- **LLM RAG Pipeline Development:** After the preliminary analysis, I implemented the RAG pipeline and LLM prompt testing frameworks that will be ready for production workloads. We primarily used Amazon Bedrock for the LLM's and Postgres with pgVector for the vector database.
 
 ## Skills Utilized:
 
