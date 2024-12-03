@@ -17,7 +17,7 @@ How I got this contract role is a very fun story! Set up a conference call with 
 
 - **Web Development:** I had much greater focus in coding while writing the guides. Through the guide writing, I became far more interested in web development and began to understand the inner workings of the web.
 
-- **Cloud-hosted:** Kubernetes Since I was communicating and writing guides for enterprise clients regarding on-prem use of the Kubernetes operator, I had to take a deep dive on k8s on the big three clouds providers: GCP GKE, Azure AKS, AWS EKS.
+- **Cloud-native Kubernetes:** Since I was communicating and writing guides for enterprise clients regarding on-prem use of the Kubernetes operator, I had to take a deep dive on k8s on the big three clouds providers: GCP GKE, Azure AKS, AWS EKS.
 
 - **Developer Marketing:** My core role was marketing and driving signups. During my contract, I had posted the highest signup numbers (the main success metric) and aided in multiple in-flight deals and partnerships with companies such as FerretDB (Postgres Open Source MongoDB alternative).
 
