@@ -4,7 +4,7 @@ description: An overview of my experience.
 ---
 This reference serves as a quick summary of my experience. 
 
-Long story short, I have had experience in the following focus areras:
+Long story short, I have had experience in the following focus areas:
 - ML Engineering
 - Sales/Design/Social Media Management
 - Data Science
