@@ -10,7 +10,7 @@ I wanted to get better at in-person sales. I found a quick short term contract t
 
 - **Give Good Deals==Get Referrals:** I had the cheapest prices compared to my peers. I had negotiated higher volume, which took a small hit to my profits, but I could drive quadruple the customers, as word would spread about my lower prices.
 
-- **Understand the Market:** I sold to mainly the Asian community, because I am *surprise* Asian. In addition, I had a better grasp of our culture and traditions, so I could easily relate and provide multiple use cases with greater impact.
+- **Understand the Market:** I sold to mainly the Asian community, as I have a good grasp of the market. In addition, I had a better grasp of our culture and traditions, so I could easily relate and provide multiple use cases with greater impact.
 
 # Skills Utilized:
 

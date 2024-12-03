@@ -9,7 +9,7 @@ One of my greatest passions is teaching and presenting information in entertaini
 
 - **Data Science/Data Engineering Tutoring:** After completing my data engineering certificate from Databricks, I was tapped to lead P&G's corporate engineering division's data science and data engineering upskilling effort. In the end, I had tutored directly over 150 citizen developers, with representation in all business units and business functions. Management had concluded that the effort saved P&G over $30 million directly from my efforts.
 
-- **Electrical Engineering Tutoring:** I tutored over 1,000 students in classes such as Circuits, Advanced Circuits, Electromagnetics, Calculus, Differnetial Equations, etc. As a result, many students had their exam grades improve!
+- **Electrical Engineering Tutoring:** I tutored over 1,000 students in classes such as Circuits, Advanced Circuits, Electromagnetics, Calculus, Differential Equations, etc. As a result, many students had their exam grades improve!
 
 ## Skills Utilized:
 
