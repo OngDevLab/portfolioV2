@@ -27,6 +27,7 @@ export default defineConfig({
 					label: 'Career',
 					items: [
 						// Each item here is one entry in the navigation menu.
+						{ label: 'Daman (2024-present)', link: '/career/daman/'},
 						{ label: 'Contracting (2010-present)', link: '/career/contracting/' },
 						{ label: 'Tutoring (2015-present)', link: '/career/tutoring/' },
 						{ label: 'Tembo (2023-2024)', link: '/career/tembo/' },

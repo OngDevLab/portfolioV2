@@ -1,6 +1,6 @@
 ---
 title: Contracting Roles
-description: A guide in my new Starlight docs site.
+description: An overview of some of my freelance contracting roles.
 ---
 
 I have done contracting roles since 2010 in various industries, roles, and responsibilities. As my skillset grows, I often take on contracts to gain further experience in new spaces, while offering my clients a unique blend of having a diverse toolkit and high adaptability. Below are the types of roles I have taken, with company names listed based on the type of disclosure agreement:

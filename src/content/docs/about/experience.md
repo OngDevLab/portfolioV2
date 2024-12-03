@@ -1,10 +1,11 @@
 ---
 title: Experience
-description: A guide in my new Starlight docs site.
+description: An overview of my experience.
 ---
 This reference serves as a quick summary of my experience. 
 
-Long story short, I have had three distinctly different careers:
+Long story short, I have had experience in the following focus areras:
+- ML Engineering
 - Sales/Design/Social Media Management
 - Data Science
 - Software Development
@@ -13,6 +14,7 @@ I have also worked in multiple different environments:
 - Remote 
 - Production facilities
 - Fortune 500
+- Government
 - Startups
 - Overseas
 - Contract & Full Time

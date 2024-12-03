@@ -7,21 +7,21 @@ img{
 /* Dark mode colors. */
 :root {
 	--sl-color-accent-low: #262033;
-	--sl-color-accent: #725b9e;
-	--sl-color-accent-high: #cbc4dd;
+	--sl-color-accent: #0a0316;
+	--sl-color-accent-high: #c4c7dd;
 	--sl-color-white: #ffffff;
-	--sl-color-gray-1: #c8faec;
-	--sl-color-gray-2: #93d1c0;
-	--sl-color-gray-3: #00a389;
-	--sl-color-gray-4: #006756;
-	--sl-color-gray-5: #004337;
-	--sl-color-gray-6: #002f26;
-	--sl-color-black: #001e17;
+	--sl-color-gray-1: #295fea;
+	--sl-color-gray-2: #8bb6ff;
+	--sl-color-gray-3: #a35f00;
+	--sl-color-gray-4: #030908;
+	--sl-color-gray-5: #02011c;
+	--sl-color-gray-6: #000b20;
+	--sl-color-black: #00061e;
 }
 /* Light mode colors. */
 :root[data-theme='light'] {
 	--sl-color-accent-low: #d9d3e6;
-	--sl-color-accent: #745da0;
+	--sl-color-accent: #150b27;
 	--sl-color-accent-high: #362c49;
 	--sl-color-white: #001e17;
 	--sl-color-gray-1: #002f26;
