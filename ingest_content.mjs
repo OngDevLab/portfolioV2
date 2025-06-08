@@ -12,7 +12,7 @@ async function getMdxFiles(dir) {
       const fullPath = path.join(dir, entry.name);
       if (entry.isDirectory()) {
         files = files.concat(await getMdxFiles(fullPath));
-      } else if (entry.isFile() && entry.name.endsWith('.mdx')) {
+      } else if (entry.isFile() && (entry.name.endsWith('.md') || entry.name.endsWith('.mdx'))) {
         files.push(fullPath);
       }
     }
